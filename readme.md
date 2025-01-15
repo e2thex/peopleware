@@ -14,11 +14,11 @@ You want to assemble a group of 4-6 people that have the following skills; any o
 - Can identify and bring people who are on the brink of talking into conversations
 - can casually lead a lean coffee engagement
 
-### Step 2 Create a runway of topics
+### Step 1 Create a runway of topics
 
 Your vanguard wants to create a runway of topics that engage people and are tied to the organizations. 
 The following are good starting points
 - Organization values/principles
 - Organization organizing structures (e.g., scrum)
 
-### Step 3 Lean coffee for the win!
+### Step 2 Lean coffee for the win!
